@@ -161,7 +161,7 @@ def zc(phone):
 
 
 i = 0
-while i < 10:
+while i < 100:
     p = getphone()
     zc(p)
     i += 1
