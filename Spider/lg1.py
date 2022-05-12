@@ -172,7 +172,7 @@ def zz():
     # 输入号码
     d.find_element_by_xpath(
         '/html/body/uni-app/uni-page/uni-page-wrapper/uni-page-body/uni-view/uni-view[2]/uni-view[2]/uni-view/uni-view/uni-view[2]/uni-view[2]/uni-input/div/input').send_keys(
-        16571112532)
+        17020411836)
     rw()
     # 输入积分
     d.find_element_by_xpath(
